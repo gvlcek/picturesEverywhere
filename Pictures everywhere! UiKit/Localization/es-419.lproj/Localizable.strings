@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  Pictures everywhere! UiKit
+
+  Created by Guadalupe Vlček on 06/10/2022.
+  
+*/
+
+// MARK: - MainViewController
+"MainView_title" = "Pictures Everywhere!";
+"MainView_add_button" = "Agregar 📸";
+
+// MARK: - DetailUITabBarController
+
+"TabBar_picture" = "Fotografía";
+"TabBar_location" = "Ubicación";
